@@ -13,3 +13,4 @@
                 type="text" placeholder="Buscar en blog">
         </div>
     </div>
+</div>

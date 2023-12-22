@@ -11,8 +11,8 @@
     @endsection
 
     <div class="mb-10 w-full">
-        <div class="mb-16">
-            <h2 class="mt-16 mb-5 text-3xl text-indigo-500 font-bold">Publicaciones Recomendadas</h2>
+        <div class="mb-16 bg-indigo-100 p-8">
+            <h2 class="my-5 text-3xl text-indigo-500 font-bold">Publicaciones Recomendadas</h2>
             <div class="w-full">
                 <div class="grid grid-cols-3 gap-10 w-full">
                     @foreach ($featuredPosts as $post)
