@@ -20,8 +20,7 @@
                     @endforeach
                 </div>
             </div>
-            <a class="mt-10 block text-center text-lg text-indigo-500 font-semibold"
-                href="http://127.0.0.1:8000/blog">Más Publicaciones</a>
+
         </div>
         <hr>
 
